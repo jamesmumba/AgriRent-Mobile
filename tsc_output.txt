@@ -1,0 +1,9 @@
+src/components/ProfileVerificationForm.tsx(228,25): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/components/ProfileVerificationForm.tsx(250,25): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/components/ProfileVerificationForm.tsx(274,25): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/components/ProfileVerificationForm.tsx(285,25): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/components/ProfileVerificationForm.tsx(295,25): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/components/ProfileVerificationForm.tsx(320,25): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/components/ProfileVerificationForm.tsx(332,25): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/screens/ProfileScreen.tsx(318,17): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/screens/ProfileScreen.tsx(334,17): error TS17001: JSX elements cannot have multiple attributes with the same name.

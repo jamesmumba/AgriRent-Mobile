@@ -1,0 +1,10 @@
+src/hooks/useNotifications.ts(10,37): error TS2322: Type 'Promise<{ shouldShowAlert: true; shouldPlaySound: true; shouldSetBadge: true; }>' is not assignable to type 'Promise<NotificationBehavior>'.
+  Type '{ shouldShowAlert: true; shouldPlaySound: true; shouldSetBadge: true; }' is missing the following properties from type 'NotificationBehavior': shouldShowBanner, shouldShowList
+src/hooks/useNotifications.ts(20,34): error TS2554: Expected 1 arguments, but got 0.
+src/hooks/useNotifications.ts(21,30): error TS2554: Expected 1 arguments, but got 0.
+src/hooks/useNotifications.ts(45,35): error TS2339: Property 'removeNotificationSubscription' does not exist on type 'typeof import("C:/Users/jmumb/Documents/peza-main/mobile/node_modules/expo-notifications/build/index")'.
+src/hooks/useNotifications.ts(48,35): error TS2339: Property 'removeNotificationSubscription' does not exist on type 'typeof import("C:/Users/jmumb/Documents/peza-main/mobile/node_modules/expo-notifications/build/index")'.
+src/screens/FavoritesScreen.tsx(78,29): error TS2345: Argument of type '[never, never]' is not assignable to parameter of type 'never'.
+src/screens/MessagesScreen.tsx(147,13): error TS2345: Argument of type '[never, never]' is not assignable to parameter of type 'never'.
+src/screens/MessagesScreen.tsx(197,37): error TS2322: Type 'false | 0 | { color: string; fontWeight: "600"; } | undefined' is not assignable to type 'TextStyle | Falsy | RegisteredStyle<TextStyle> | RecursiveArray<TextStyle | Falsy | RegisteredStyle<TextStyle>> | readonly (TextStyle | ... 1 more ... | RegisteredStyle<...>)[]'.
+  Type '0' is not assignable to type 'TextStyle | Falsy | RegisteredStyle<TextStyle> | RecursiveArray<TextStyle | Falsy | RegisteredStyle<TextStyle>> | readonly (TextStyle | ... 1 more ... | RegisteredStyle<...>)[]'.
